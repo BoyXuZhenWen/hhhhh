@@ -25,14 +25,7 @@
     self.view.backgroundColor = [UIColor whiteColor];
 
     
-    self.view.backgroundColor = [UIColor grayColor];
-    self.view.backgroundColor = [UIColor grayColor];
-    self.view.backgroundColor = [UIColor grayColor];
-    self.view.backgroundColor = [UIColor grayColor];
-    self.view.backgroundColor = [UIColor grayColor];
-    self.view.backgroundColor = [UIColor grayColor];
-    self.view.backgroundColor = [UIColor grayColor];
-    self.view.backgroundColor = [UIColor grayColor];
+    
 
 }
 
